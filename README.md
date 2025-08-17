@@ -80,13 +80,11 @@ src/
 │   │   ├── InputField.tsx
 │   │   ├── InputField.types.ts
 │   │   ├── InputField.stories.tsx
-│   │   ├── InputField.test.tsx
 │   │   └── index.ts
 │   └── DataTable/
 │       ├── DataTable.tsx
 │       ├── DataTable.types.ts
 │       ├── DataTable.stories.tsx
-│       ├── DataTable.test.tsx
 │       └── index.ts
 ├── theme/
 ├── utils/
